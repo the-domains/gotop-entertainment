@@ -1,0 +1,36 @@
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: GoTop Entertainment
+layout_spectrum: 0.5654636747203767
+typography_spectrum: 0.5178907667286694
+color:
+  brandStrength: 0.5914860311895609
+  lightness: 0.46270405128598213
+  saturation: 0.5041883634403348
+  rhythmicContrast: 0.5090787881053984
+  brandColors:
+    - '#292929'
+    - '#5B7876'
+    - '#8F9E8B'
+    - '#F2E6B6'
+    - '#412A22'
+content: []
+title: GoTop Entertainment
+description: Entertainment on top
+purpose:
+  - type: contact
+    url: 'tel:8885881192'
+    label: Call 888.588.1192
+  - type: contact
+    url: 'mailto:gotoh@gotopent.com'
+    label: Contact me
+github: true
+url: 'https://gotopent.com'
+author:
+  name: Heigo Goto
+  email: gotolasvegas2002@gmail.com
